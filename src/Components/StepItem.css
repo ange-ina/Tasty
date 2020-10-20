@@ -1,0 +1,13 @@
+.BorderNumber {
+     padding: 10px 13px;
+     background-color: #fff;
+     border: 1px solid lightgray;
+     border-radius: 50%;
+     margin-right: 10%;
+     color: #5bb3a0;
+}
+.Steps {
+     display: flex;
+     align-items: center;
+     width: 90%;
+}
